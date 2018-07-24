@@ -1,0 +1,10 @@
+.section {
+  size: 75%;
+  size: 25%;
+  display: block;
+}
+
+.column2 {
+  position: relative;
+  left: 200px;
+}
